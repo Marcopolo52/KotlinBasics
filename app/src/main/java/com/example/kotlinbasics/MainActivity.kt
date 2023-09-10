@@ -4,9 +4,9 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
 /** Kotlin basics
+ * https://www.youtube.com/watch?v=HwoxgUPabMk&ab_channel=tutorialsEU
  * https://www.youtube.com/watch?v=wuiT4T_LJQo&list=LL&ab_channel=DonnFelker
- * test
- * test
+ * https://www.youtube.com/watch?v=bo_LP6QOUio&ab_channel=freeCodeCamp.org
  */
 
 class MainActivity : AppCompatActivity() {
